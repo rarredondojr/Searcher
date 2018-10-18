@@ -30,3 +30,16 @@
     transform: rotate(360deg);
   }
 }
+
+#search{
+  margin:20px auto 0px auto;
+  width: 50%;
+  display: block;
+}
+#results{
+  margin-top:20px;
+}
+
+#results li{
+  margin-top:20px;
+}
